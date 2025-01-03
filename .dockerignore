@@ -1,0 +1,8 @@
+Pipfile
+README.md
+Pipfile.lock
+Dockerfile
+docker-compose.yml
+.gitignore
+taskfile.yaml
+.github/
